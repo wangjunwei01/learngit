@@ -8,6 +8,3 @@ Git tracks changes.
 
 Creating a new branch is quick.
 Test master merge conflict and dev conflict.
-
-
-11111
